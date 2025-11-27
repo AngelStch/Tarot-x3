@@ -1,4 +1,3 @@
-// src/index.ts
 import { Application } from 'pixi.js';
 import { Game } from '../src/game/Game';
 

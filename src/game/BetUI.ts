@@ -37,7 +37,7 @@ export class BetUI extends Container {
       })
     );
     this.betLabel.anchor.set(0.5);
-    this.betLabel.position.set(0, 40); // ↓↓↓ тук е новото разстояние
+    this.betLabel.position.set(0, 40); 
     this.addChild(this.betLabel);
 
     // === MINUS BUTTON ===

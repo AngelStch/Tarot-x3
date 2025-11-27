@@ -14,7 +14,7 @@ export class MultiplierTable {
     { multiplier: 2.0, weight: 23 },
     { multiplier: 1.0, weight: 55 },
     { multiplier: 4.0, weight: 7 },
-    { multiplier: 2.0, weight: 9 },  // втори 2x, както в примера
+    { multiplier: 2.0, weight: 9 }, 
     { multiplier: 0.6, weight: 15 },
     { multiplier: 0.3, weight: 50 },
     { multiplier: 0.0, weight: 19 },

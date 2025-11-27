@@ -1,4 +1,3 @@
-// src/core/StateMachine.ts
 
 export class StateMachine<TState> {
   private current: TState;
